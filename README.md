@@ -20,7 +20,6 @@ A segunda inteligência artificial é um modelo de resumo de texto. Ele usa téc
 
 Para usar o projeto, você precisará primeiro fornecer um link para um short do YouTube. O projeto então transcreverá o áudio do short e gerará um resumo. 
 
-[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/IA/)
 
 ## 🛠️ Tecnologias
 
